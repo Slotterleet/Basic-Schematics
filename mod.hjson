@@ -1,0 +1,5 @@
+name: "basic-schematics"
+displayName: "Basic Schematics for Mindustry" 
+description: "This mod adds some basic factory schematics to your Mindustry. Very useful for novices."
+version: "1.0"
+minGameVersion: "104"
